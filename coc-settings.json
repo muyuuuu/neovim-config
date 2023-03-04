@@ -1,0 +1,3 @@
+{
+"coc.preferences.formatOnSave": ["cpp", "markdown", "h", "c", "py", "tex"],
+}
